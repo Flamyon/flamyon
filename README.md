@@ -1,4 +1,4 @@
-# Fran — Software Engineer | Aspiring Quantitative Researcher  
+# Fran — Software Engineer | Aspiring Quant  
 
 I am a **Software Engineer** with a strong foundation in **mathematics, probability, and computational methods**, currently building my career towards **Quantitative Finance**.  
 
