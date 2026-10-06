@@ -1,11 +1,9 @@
-# Francisco Rodríguez-Carretero — quant research in training
+# Francisco Rodríguez-Carretero
 
 Software engineer (BSc, Universidad de Sevilla, 2026) doing an MSc in Quantitative Finance and
 Computational Methods, and a research fellow at IMUS working on interval-valued multi-objective
 optimisation. I like problems where the honest answer is a measured number with an interval
 around it, and I build the tooling to get that number reproducibly.
-
-**Looking for:** quant research / quant developer internships and graduate roles.
 
 ## Research
 
